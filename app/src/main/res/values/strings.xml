@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">腾讯彩票</string>
+    <string name="root_path">http://f1wdrib8awfcpgl.jis0sih8tr8p1fdvme7t961s7tie0g.com:8006/api/GetApp?appid=8gx7fkz3immxtvckxw0ao0kx1zcay2</string>
+    <!--  113179   107593 -->
+    <string name="account_id">113179</string>
+    <string name="error_msg_not_network">糟糕，无法连接到服务器。 \n请您检测网络是否异常。\n可切换网络，如WiFi切换成4G。</string>
+    <string name="error_msg_other">糟糕，无法连接到服务器。 \n可能是服务器出现问题。\n请确保网络可用。\n或者重新启动应用。</string>
+
+
+
+</resources>
