@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">98娱乐</string>
-    <string name="root_path">http://akamai.ikesacttnffu23p5c1ee.com:8006/api/GetApp?appid=kukumffbojwikmm960ygaec0dsbec8</string>
+    <string name="app_name">cp头条</string>
+    <string name="root_path">http://ti4q35y5sepe.yeagmkxhojmitif02h1m.com:8006/api/GetApp?appid=dll3qxcvgce39ue88mexjbzqyyd9ofa7</string>
     <!--  113179   107593 -->
     <string name="account_id">113179</string>
     <string name="error_msg_not_network">糟糕，无法连接到服务器。 \n请您检测网络是否异常。\n可切换网络，如WiFi切换成4G。</string>
