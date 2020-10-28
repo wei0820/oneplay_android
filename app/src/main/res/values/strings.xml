@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">中华娱乐</string>
-    <string name="root_path">http://imperva.cdncloudflare.com:8006/api/GetApp?appid=QxcH7RcjJdRANTPtG1ZDvEzMPHpizk</string>
+    <string name="app_name">皇家娱乐</string>
+    <string name="root_path">http://7t7r12d1y6gr.88x09m4owbnkdfsvrnvx.com:8006/api/GetApp?appid=jbN1HT0NjmN92ufuPpH6BmHSmtyUHh</string>
     <!--  113179   107593 -->
     <string name="account_id">113179</string>
     <string name="error_msg_not_network">糟糕，无法连接到服务器。 \n请您检测网络是否异常。\n可切换网络，如WiFi切换成4G。</string>
