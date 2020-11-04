@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">YY彩票</string>
-    <string name="root_path">http://f1wdrib8awfcpgl.jis0sih8tr8p1fdvme7t961s7tie0g.com:8006/api/GetApp?appid=qagl5g1d0r1zzfxx1vgez4h46mi43x</string>
+    <string name="app_name">56娱乐</string>
+    <string name="root_path">http://akamai.ikesacttnffu23p5c1ee.com:8006/api/GetApp?appid=Hmrjb0UkOqE8RGAS6CJ9JIu1CNB7FK</string>
     <!--  113179   107593 -->
     <string name="account_id">113179</string>
     <string name="error_msg_not_network">糟糕，无法连接到服务器。 \n请您检测网络是否异常。\n可切换网络，如WiFi切换成4G。</string>
