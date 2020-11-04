@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">500彩票</string>
-    <string name="root_path">http://ti4q35y5sepe.yeagmkxhojmitif02h1m.com:8006/api/GetApp?appid=zi74baose306mhonlrhwl0p3bazq4p1y9z</string>
+    <string name="app_name">YY彩票</string>
+    <string name="root_path">http://f1wdrib8awfcpgl.jis0sih8tr8p1fdvme7t961s7tie0g.com:8006/api/GetApp?appid=qagl5g1d0r1zzfxx1vgez4h46mi43x</string>
     <!--  113179   107593 -->
     <string name="account_id">113179</string>
     <string name="error_msg_not_network">糟糕，无法连接到服务器。 \n请您检测网络是否异常。\n可切换网络，如WiFi切换成4G。</string>
