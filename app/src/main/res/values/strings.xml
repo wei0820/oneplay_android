@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">凤凰彩票</string>
-    <string name="root_path">http://ti4q35y5sepe.yeagmkxhojmitif02h1m.com:8006/api/GetApp?appid=un2ndmm8vgdu8cvq2pbz2q4rq7ej79</string>
+    <string name="app_name">28购彩III</string>
+    <string name="root_path">http://incapsula.k7wpf7ye9mmsmrybpgln.com:8006/api/GetApp?appid=mqie4w23g1h7y8frf4wusapejc2cyc</string>
     <!--  113179   107593 -->
     <string name="account_id">113179</string>
     <string name="error_msg_not_network">糟糕，无法连接到服务器。 \n请您检测网络是否异常。\n可切换网络，如WiFi切换成4G。</string>
