@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">鸿运彩</string>
-    <string name="root_path">http://akamai.ikesacttnffu23p5c1ee.com:8006/api/GetApp?appid=xm55vn70vhi26mi753l4vqigllxw3xkja8g</string>
+    <string name="app_name">天天中彩</string>
+    <string name="root_path">http://akamai.ikesacttnffu23p5c1ee.com:8006/api/GetApp?appid=I5bbsqJ9U12EISKu23P2cbY53sKVGv</string>
     <!--  113179   107593 -->
     <string name="account_id">113179</string>
     <string name="error_msg_not_network">糟糕，无法连接到服务器。 \n请您检测网络是否异常。\n可切换网络，如WiFi切换成4G。</string>
