@@ -26,9 +26,9 @@
         android:usesCleartextTraffic="true"
 
         android:allowBackup="true"
-        android:icon="@mipmap/icon_120"
+        android:icon="@mipmap/icon_087"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/icon_120"
+        android:roundIcon="@mipmap/icon_087"
         android:supportsRtl="true"
         android:theme="@style/AppTheme_full">
 
